@@ -1,0 +1,60 @@
+/*!*Intersection observer example 1*!*/
+/** {*/
+/*    box-sizing: border-box;*/
+/*}*/
+/*body {*/
+/*    font-family: Helvetica, Arial, Sans Serif;*/
+/*}*/
+/*p {*/
+/*    line-height: 20px;*/
+/*    color: #333;*/
+/*}*/
+/*.container {*/
+/*    height: 1800px;*/
+/*    width: 500px;*/
+/*    margin: 100px auto;*/
+/*}*/
+
+/*.animated-text {*/
+/*    font-size: 30px;*/
+/*    text-align: center;*/
+/*    opacity: 0;*/
+/*    transform: translateY(100px);*/
+/*    transition: opacity 1s ease, transform 1s ease;*/
+/*}*/
+
+/*.animated-text.visible {*/
+/*    opacity: 1;*/
+/*    transform: translateX(0);*/
+/*}*/
+
+/*!*Intersection observer example 2*!*/
+/** {*/
+/*    box-sizing: border-box;*/
+/*}*/
+/*body {*/
+/*    font-family: Helvetica, Arial, Sans Serif;*/
+/*}*/
+/*.page {*/
+/*    width: 500px;*/
+/*    margin: auto;*/
+/*}*/
+/*.image-container {*/
+/*    max-width: 500px;*/
+/*    margin: 0 auto 100px;*/
+/*}*/
+/*.image-wrapper {*/
+/*    width: 100%;*/
+/*    background: #eee;*/
+/*}*/
+/*.lazyload {*/
+/*    opacity: 0;*/
+/*    width: 100%;*/
+/*    height: 360px;*/
+/*    transition: opacity 4s ease;*/
+/*    vertical-align: middle;*/
+/*}*/
+/*.lazyload.loaded {*/
+/*    opacity: 1;*/
+/*    height: auto;*/
+/*}*/
